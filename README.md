@@ -7,8 +7,6 @@
 # Office 2013-2024 C2R Install
 > Current Version - Version 7.7.7.7 r17 + Lite Version
 
-Certainly! Let's complement the provided information:
-
 ## About the Program
 - **Purpose**: This program is specifically designed for **online installation and activation** of Microsoft Office 2013/2024 C2R (Click-to-Run).
 - **Customization**: Additionally, it allows you to create a **custom offline installation** of Office, which can be useful for later use.
