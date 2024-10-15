@@ -7,9 +7,17 @@
 # Office 2013-2024 C2R Install
 > Current Version - Version 7.7.7.7 r17 + Lite Version
 
-                 
-This program designed for on-line installation and activation Microsoft Office 2013/2016 C2R. You also can
-create custom installation of Office off-line for using later.
+Certainly! Let's complement the provided information:
+
+## About the Program
+- **Purpose**: This program is specifically designed for **online installation and activation** of Microsoft Office 2013/2024 C2R (Click-to-Run).
+- **Customization**: Additionally, it allows you to create a **custom offline installation** of Office, which can be useful for later use.
+
+## How to download:
+1. Click on the green button labeled **“Code”**
+2. From the dropdown menu, select **“Download ZIP”**
+3. Save the ZIP file to your preferred location on your computer.
+> Remember to disable your antivirus temporarily before using the program, especially if it triggers any security alerts during the download or installation process.
 
 ## How to use the program:
 
