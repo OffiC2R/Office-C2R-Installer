@@ -1,0 +1,30 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="en-us" />
+    </Product>
+    <Product ID="ProjectProRetail">
+      <Language ID="en-us" />
+    </Product>
+    <Product ID="VisioProRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Updates Enabled="TRUE" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+</Configuration>
+<!--  OInstallSetting Branch=1  -->
+<!--  OInstallSetting Office=0  -->
+<!--  OInstallSetting Arch=0  -->
+<!--  OInstallSetting Redact=1  -->
+<!--  OInstallSetting Product=7  -->
+<!--  OInstallSetting UseDarkTheme=1  -->
+<!--  OInstallSetting UseDarkThemeBackColor=37,37,37  -->
+<!--  OInstallSetting RunAsTI=0  -->
+<!--  OInstallSetting PATH=  -->
+<!--  OInstallSetting Aria2 Command Line=-s10 -x10 -j10 -m60 -t20 -k10M -R -c --retry-wait=5 --check-certificate=false --file-allocation=falloc --max-overall-download-limit=0  -->
+<!--  OInstallSetting Aria2 Command Line2=-s1 -j1 -R --check-certificate=false --file-allocation=falloc -c  -->
+<!--  OInstallSetting Download files in one stream=0  -->
+<!--  OInstallSetting Download Version=16.0.12527.22286  -->
+<!--  OInstallSetting Lang en-US  -->
