@@ -66,8 +66,6 @@
 
 ## Advanced startup options (keys):
 
-Certainly! Let's organize those commands into separate code boxes:
-
 1. **Installation with Configuration File**:
    ```bash
    /configure "d:\MyPath\Configuration.xml"
@@ -88,8 +86,6 @@ Certainly! Let's organize those commands into separate code boxes:
      ```
    
 ## Additional questions
-
-Certainly! Let's update the information to refer to **Office 2024** instead of 2019:
 
 1. **Activation of Office 2024**:
    - Not all editions of Office 2019 to 2024 can be activated using a KMS emulator. For a more reliable activation process, consider using the full version of **Office 2013-2024 C2R** (Click-to-Run). The lite version only activates KMS editions.
