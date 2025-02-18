@@ -1,12 +1,15 @@
 <Configuration>
-  <Add OfficeClientEdition="64" Channel="Current">
-    <Product ID="O365ProPlusRetail">
+  <Add OfficeClientEdition="64" Channel="Production_LTSC2024">
+    <Product ID="ProPlus2024Volume" PIDKEY="XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB">
       <Language ID="en-us" />
     </Product>
-    <Product ID="ProjectProRetail">
+    <Product ID="ProjectPro2024Volume" PIDKEY="FQQ23-N4YCY-73HQ3-FM9WC-76HF4">
       <Language ID="en-us" />
     </Product>
-    <Product ID="VisioProRetail">
+    <Product ID="VisioPro2024Volume" PIDKEY="B7TN8-FJ8V3-7QYCP-HQPMV-YY89G">
+      <Language ID="en-us" />
+    </Product>
+    <Product ID="ProofingTools">
       <Language ID="en-us" />
     </Product>
   </Add>
@@ -17,11 +20,12 @@
 <!--  OInstallSetting Branch=1  -->
 <!--  OInstallSetting Office=0  -->
 <!--  OInstallSetting Arch=0  -->
-<!--  OInstallSetting Redact=1  -->
-<!--  OInstallSetting Product=7  -->
+<!--  OInstallSetting Redact=2  -->
+<!--  OInstallSetting Product=0  -->
 <!--  OInstallSetting UseDarkTheme=1  -->
 <!--  OInstallSetting UseDarkThemeBackColor=37,37,37  -->
 <!--  OInstallSetting RunAsTI=0  -->
+<!--  OInstallSetting OnlineKMS=1  -->
 <!--  OInstallSetting PATH=  -->
 <!--  OInstallSetting Aria2 Command Line=-s10 -x10 -j10 -m60 -t20 -k10M -R -c --retry-wait=5 --check-certificate=false --file-allocation=falloc --max-overall-download-limit=0  -->
 <!--  OInstallSetting Aria2 Command Line2=-s1 -j1 -R --check-certificate=false --file-allocation=falloc -c  -->
