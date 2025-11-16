@@ -5,7 +5,7 @@
 </p>
 
 # Office 2013-2025 C2R Install
-> Current Version - Version 7.7.7.7 r26 + Lite Version
+> Current Version - Version 7.7.7.7 r27 + Lite Version
 
 ## About the Program
 - **Purpose**: This program is specifically designed for **online installation and activation** of Microsoft Office 2013/2024 C2R (Click-to-Run).
