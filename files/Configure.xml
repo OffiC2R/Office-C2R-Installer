@@ -25,7 +25,6 @@
 <!--  OInstallSetting UseDarkTheme=1  -->
 <!--  OInstallSetting UseDarkThemeBackColor=37,37,37  -->
 <!--  OInstallSetting RunAsTI=0  -->
-<!--  OInstallSetting OnlineKMS=1  -->
 <!--  OInstallSetting PATH=  -->
 <!--  OInstallSetting Aria2 Command Line=-s10 -x10 -j10 -m60 -t20 -k10M -R -c --retry-wait=5 --check-certificate=false --file-allocation=falloc --max-overall-download-limit=0  -->
 <!--  OInstallSetting Aria2 Command Line2=-s1 -j1 -R --check-certificate=false --file-allocation=falloc -c  -->
